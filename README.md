@@ -16,6 +16,18 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
+## SPOT CLAIM
+
+Have an accident report, or ever had one, with SpotClaim you can make that transfer of information immediately here and or wherever, as to what did happen. By using simple photo capture combined with automatic tracking of your location, you can inform insurance without all of the usual hassle. There is going to be a notification sent out to your insurance provider instantly with your precise location making it easier for you to report an accident. Looking for nearby help? SpotClaim has a built-in Google Maps feature that directs you to the nearest insurance service centers. SpotClaim allows you to report accidents quickly with low data usage, state-of-the-art geolocation and complete vacation file management.
+
+## APK build steps
+
+1. eas login
+2. eas build:configure
+3. eas build --platform android
+
+
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
